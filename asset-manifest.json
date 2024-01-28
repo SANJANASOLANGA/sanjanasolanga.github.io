@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.e75f1667.css",
-    "main.js": "/static/js/main.f3678018.js",
+    "main.js": "/static/js/main.eace05e6.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/myPicture.svg": "/static/media/myPicture.260efc133b644ff2cd37687eb663a886.svg",
     "static/media/aragi.png": "/static/media/aragi.cde6e9dc02b789c417dd.png",
+    "static/media/Resume2.svg": "/static/media/Resume2.e1431d9b4ef66c707ea0f04ec0f0278c.svg",
     "static/media/personal.png": "/static/media/personal.640d523b0d8e9fe0fbe1.png",
     "static/media/nursery.png": "/static/media/nursery.2285fa3fc78d0953ca14.png",
     "static/media/profile.png": "/static/media/profile.ec659ae455931fd99088.png",
+    "static/media/Resume1.svg": "/static/media/Resume1.8753999c41b9494c876d6e340bc89f37.svg",
     "static/media/atm.png": "/static/media/atm.f56aacf6bb2ce34f5824.png",
-    "static/media/Sewmini_Sanjana_Resume.svg": "/static/media/Sewmini_Sanjana_Resume.8cdd850ca417e47fa5c624acbea7c2a5.svg",
     "static/media/hospital.png": "/static/media/hospital.4fc9a42656137fa2e6a8.png",
     "static/media/logo.png": "/static/media/logo.702ad373e8a31a2dbf49.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Sewmini_Sanjana.pdf": "/static/media/Sewmini_Sanjana.99f06475524c7f2dc6f1.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/Sewmini_Sanjana_Web.pdf": "/static/media/Sewmini_Sanjana_Web.84b7f81de7273a663a8a.pdf",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.e75f1667.css.map": "/static/css/main.e75f1667.css.map",
-    "main.f3678018.js.map": "/static/js/main.f3678018.js.map",
+    "main.eace05e6.js.map": "/static/js/main.eace05e6.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e75f1667.css",
-    "static/js/main.f3678018.js"
+    "static/js/main.eace05e6.js"
   ]
 }
